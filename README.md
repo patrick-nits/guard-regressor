@@ -1,6 +1,5 @@
 # Guard::Regressor
-
-TODO: Write a gem description
+Guard Plugin for https://github.com/ndea/regressor
 
 ## Installation
 
@@ -20,7 +19,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+    $ guard init regressor
 
 ## Contributing
 
